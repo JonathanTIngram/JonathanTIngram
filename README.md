@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">Computer Science Student @ Rowan University</h3>
+<h3 align="center">Computer Science Student at Rowan University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathantingram&label=Profile%20views&color=0e75b6&style=flat" alt="jonathantingram" /> </p>
 
