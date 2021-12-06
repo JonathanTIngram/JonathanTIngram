@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan</h1>
+<h1 align="center">Hi, I'm Jonathan</h1>
 <h3 align="center">Currently, I am a computer science student at Rowan University, pursuing a career as a software engineer. Some of my interests within the field include full stack web development, the internet of things and robotics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathantingram&label=Profile%20views&color=0e75b6&style=flat" alt="jonathantingram" /> </p>
