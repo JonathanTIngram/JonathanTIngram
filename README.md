@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Jonathan</h1>
 <h3 align="center">Some of my interests within the field include full stack web development, the internet of things and robotics.</h3>
 
-<div>
-<iframe class="embed-repsonsive embed-repsonsive-16by9" src="https://jonathantingram.github.io/"></iframe>
+<div class="embed-repsonsive embed-repsonsive-16by9">
+<iframe src="https://jonathantingram.github.io/"></iframe>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathantingram&label=Profile%20views&color=0e75b6&style=flat" alt="jonathantingram" /> </p>
 
