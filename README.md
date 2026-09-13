@@ -6,5 +6,5 @@
 
 - Check out my website [https://jonathantingram.github.io](https://jonathantingram.github.io)
 
-- Take a look at my resume [https://jonathantingram.github.io/elements.html](https://jonathantingram.github.io/elements.html)
+- Take a look at my resume [https://jonathantingram.github.io/resume.html](https://jonathantingram.github.io/resume.html)
 
